@@ -75,3 +75,7 @@ Maintaining good health is essential for living a productive and fulfilling life
 Morning: 10-minute stretch + healthy breakfast
 Afternoon: Balanced lunch + short walk
 Evening: Light exercise + early sleep
+
+
+
+Managing your study environment is also essential. Choose a quiet, well-lit space and minimize distractions like phones or social media. Studying in consistent, focused time blocks with short breaks in between can boost productivity and prevent burnout.
