@@ -23,7 +23,7 @@
 
 
 # Health
-> ## from **Marvin Kangwana**
+> ## By **Marvin Kangwana**
 
 **Health** is a state of physical, mental, and social well-being.
 Maintaining good health is essential for living a productive and fulfilling life.
@@ -56,7 +56,7 @@ Evening: Light exercise + early sleep
 
 
 # Managing study environment.
-# From *Irene*
+# By *Irene*
 
 Managing your study environment is about creating a space that helps you focus, stay comfortable, and avoid distractions.
 The following are ways to have a managable study environment:-
@@ -74,8 +74,8 @@ The following are ways to have a managable study environment:-
 
 A productive study environment supports healthy study habits.
 
-# By Alex
 ## Active Learning
+# By Alex
 
 *Active learning is a study approach* that focuses on engaging with information instead of passively rereading notes.
 It helps improve memory, understanding, and long-term retention.
