@@ -77,7 +77,23 @@ Afternoon: Balanced lunch + short walk
 Evening: Light exercise + early sleep
 
 
-##Paragraph
+### Managing study environment.
+##From *Irene*
 
-Managing your study environment is also essential. Choose a quiet, well-lit space and minimize distractions like phones or social media. Studying in consistent, focused time blocks with short breaks in between can boost productivity and prevent burnout.
+Managing your study environment is about creating a space that helps you focus, stay comfortable, and avoid distractions.
+The following are ways to have a managable study environment:-
+- Pick a quiet, dedicated space.
+- Keep you area clean and organized.
+- Ensure good lighting and ventilation.
+- Control noise
+- Use a study schedule for example :-
+
+|Subject    | Time             |
+|------------------------------|
+| Maths     | 10 Am - 12 Pm    |
+| Chemistry |  12:30 Pm - 2 Pm |
+
+
+A productive study environment supports healthy study habits.
+
 ---------------------------------------------------------
