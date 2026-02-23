@@ -97,15 +97,15 @@ The following are ways to have a managable study environment:-
 
 A productive study environment supports healthy study habits.
 
-By Alex
-Active Learning
+#By Alex
+##Active Learning
 
-Active learning is a study approach that focuses on engaging with information instead of passively rereading notes.
+*Active learning is a study approach* that focuses on engaging with information instead of passively rereading notes.
 It helps improve memory, understanding, and long-term retention.
 
-Why Students Should Use It
+##Why Students Should Use It
 
-It strengthens memory through active recall.
+```It strengthens memory through active recall.
 
 It improves comprehension by forcing you to explain ideas clearly.
 
@@ -126,5 +126,5 @@ Test yourself without looking at your notes.
 Key Idea
 
 The more actively you engage with material, the deeper and stronger your understanding becomes.
-
+```
 ---------------------------------------------------------
