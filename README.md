@@ -55,7 +55,7 @@ Evening: Light exercise + early sleep
 ```
 
 
-## Managing study environment.
+# Managing study environment.
 # From *Irene*
 
 Managing your study environment is about creating a space that helps you focus, stay comfortable, and avoid distractions.
