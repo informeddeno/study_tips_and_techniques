@@ -91,7 +91,7 @@ The following are ways to have a managable study environment:-
 - Use a study schedule for example :-
 
 |Subject    | Time             |
-|------------------------------|
+|-----------|------------------|
 | Maths     | 10 Am - 12 Pm    |
 | Chemistry |  12:30 Pm - 2 Pm |
 
