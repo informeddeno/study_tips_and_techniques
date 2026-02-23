@@ -43,6 +43,7 @@ Morning: 10-minute stretch + healthy breakfast
 Afternoon: Balanced lunch + short walk
 Evening: Light exercise + early sleep
 Prioritize the most important subjects and **tackle challenging topics when your focus is strongest**.
+```
 
 
 # Health
@@ -112,10 +113,11 @@ It improves comprehension by forcing you to explain ideas clearly.
 It exposes gaps in your understanding.
 
 It makes studying more effective and less time-consuming.
+```
 
 ## How to Get Started
 
-Summarize what you’ve learned in your own words.
+```Summarize what you’ve learned in your own words.
 
 Teach the concept to someone else (or pretend to).
 
