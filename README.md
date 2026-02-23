@@ -75,6 +75,7 @@ Maintaining good health is essential for living a productive and fulfilling life
 Morning: 10-minute stretch + healthy breakfast
 Afternoon: Balanced lunch + short walk
 Evening: Light exercise + early sleep
+```
 
 
 ### Managing study environment.
