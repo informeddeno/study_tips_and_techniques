@@ -1,9 +1,13 @@
-# study_tips_and_techniques
-> ## authored by Dennis Sila Muia in collaboration with Mbithe Karuga, Alex Lihenzero and Marvin Kangwana.
+# Study Tips and Techniques
+![Alt text for the image](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/photos/love-to-learn-pencil-signage-on-wall-near-walking-man-WE_Kv_ZB1l0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+> ## authored by Dennis Sila Muia in collaboration with Irene Mbithe Karuga, Alex Lihenzero and Marvin Kangwana.
 
 - Dennis Muia
   - informeddeno@gmail.com
-- Mbithe Karuga
+- Irene Mbithe Karuga
   - mbithekaruga10@gmail.com
 - Alex Lihenzero
   - alexlyhenzero@gmail.com
