@@ -16,14 +16,22 @@ Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&utm_me
 
     # Table of Content.
   1.   Introduction.
-  2.   Health in relation to Studying
-  3.   Managing Study Environment.
-  4.   Active Learning.
+  2.   Study types. 
+  3.   Health in relation to Studying
+  4.   Managing Study Environment.
+  5.   Active Learning.
 
 # Introduction.
 
 *Studying effectively* starts with **setting clear, realistic goals**. Break your work into smaller tasks and create a simple schedule to stay organized.
 
+# Study types
+> There are different study methods to use and each of them work best depending on the subject one is doing and their learning style.
+> They include :-
+- *Summarization* - Writting the main ideas in your own words to deepen understanding.
+- *Mind Mapping* - Drawing diagrams that connect ideas visually.
+- *Flashcards* - Using question and answer cards to memorizing definations, formulas or key facts.
+- *Note taking* - Organizing notes clearly to make reviewing easier.
 
 
 # Health
